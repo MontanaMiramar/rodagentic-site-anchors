@@ -1,0 +1,1 @@
+Archivo de prueba de escritura (2026-10-30). Se retira en el commit siguiente.
